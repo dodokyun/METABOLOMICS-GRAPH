@@ -8,10 +8,7 @@ from GraphData import GraphDataset, GraphDataLoader
 from trainer import trainer
 
 ### Path 
-gsds = '/home/leelabsg/media/leelabsg-storage0/UKBB_WORK/METABOLOMICS_WORK'
 dokyun = '/Users/dokyunkim/Desktop/연구/UKBB'
-newgsds = '/home/leelabsg/media/leelabsg-storage0/dokyun/UKBB/'
-
 path = dokyun 
 os.chdir(path)
 
